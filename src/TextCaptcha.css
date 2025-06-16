@@ -1,0 +1,50 @@
+.captcha-container {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .captcha-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #333;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 180px;
+    margin: auto;
+    position: relative;
+  }
+  
+  .captcha-text {
+    flex: 1;
+  }
+  
+  .refresh-btn {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .refresh-btn:hover {
+    color: #ffcc00;
+  }
+  
+  .form-control {
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 10px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+  }
+  
+  .btn-success {
+    font-size: 18px;
+    padding: 8px;
+  }
