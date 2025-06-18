@@ -33,7 +33,8 @@ export default function Login() {
     }
 
     try {
-      const res = await axios.post("http://localhost:8096/api/login", form);
+      //const res = await axios.post("http://localhost:8096/api/login", form);
+      const res = await axios.post("https://schemeonboardingapi-production.up.railway.app/api/login", form);
       localStorage.setItem("token", res.data.token); // Save token
       localStorage.setItem("role", res.data.role); // Save role
       navigate("/dashboard"); // Redirect after login
