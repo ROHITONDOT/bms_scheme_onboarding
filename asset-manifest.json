@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bms_scheme_onboarding/static/css/main.b126147a.css",
-    "main.js": "/bms_scheme_onboarding/static/js/main.61bc02f3.js",
+    "main.js": "/bms_scheme_onboarding/static/js/main.a0b7e3d5.js",
     "static/js/453.6dac22c8.chunk.js": "/bms_scheme_onboarding/static/js/453.6dac22c8.chunk.js",
     "static/media/tripura.png": "/bms_scheme_onboarding/static/media/tripura.a7ea1fbe18ab236e63e5.png",
     "static/media/trlogo.png": "/bms_scheme_onboarding/static/media/trlogo.9e18b8f5c9d32c57643a.png",
     "index.html": "/bms_scheme_onboarding/index.html",
     "main.b126147a.css.map": "/bms_scheme_onboarding/static/css/main.b126147a.css.map",
-    "main.61bc02f3.js.map": "/bms_scheme_onboarding/static/js/main.61bc02f3.js.map",
+    "main.a0b7e3d5.js.map": "/bms_scheme_onboarding/static/js/main.a0b7e3d5.js.map",
     "453.6dac22c8.chunk.js.map": "/bms_scheme_onboarding/static/js/453.6dac22c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b126147a.css",
-    "static/js/main.61bc02f3.js"
+    "static/js/main.a0b7e3d5.js"
   ]
 }
